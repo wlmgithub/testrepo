@@ -3,7 +3,7 @@
 void sayhi(char *);
 
 int main(int argc, char *argv[]) {
-  sayhi("hello");
+  sayhi("hello world!");
   return 0;
 }
 
